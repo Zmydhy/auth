@@ -1,10 +1,10 @@
 # 鉴权模块
 ## 说明
-### abc（Role-Based Access Control）权限系统说明  
- ![avatar](C:\Users\Administrator\Pictures\relation.png)   
+### rabc（Role-Based Access Control）权限系统说明  
+ ![avatar](https://github.com/Zmydhy/auth/blob/master/img/relation.png?raw=true)   
 共维护了十张表，表间关系如图。  
 实现了以下基础功能     
-![avatar](C:\Users\Administrator\Pictures\relation.png)   
+![avatar](https://github.com/Zmydhy/auth/blob/master/img/permission.png?raw=true)   
 
 本项目支持类似多租户，多项目接入和鉴权    
 一个项目拥有多个用户  
