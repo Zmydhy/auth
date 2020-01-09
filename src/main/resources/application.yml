@@ -1,0 +1,18 @@
+server:
+  port: 16888
+
+spring:
+  redis:
+    host: 129.1.19.28
+    port: 6379
+    database: 8
+    timeout: 30000
+sys:
+  jwt:
+    key: lucky
+    ttl: 600000
+  redis:
+    exp: 900
+
+map:
+  url: http://129.1.244.244:12999
