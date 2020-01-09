@@ -32,6 +32,6 @@ public class TestController {
 
     @GetMapping("/info")
     public Result getInfo(){
-        return Result.success("成功");
+        return Result.success("测试啦");
     }
 }
